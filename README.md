@@ -1,5 +1,9 @@
 # Pipes
 
+Small project to learn about Angular's Pipes
+
+![](http://imgur.com/a/3l7Pz)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Development server
